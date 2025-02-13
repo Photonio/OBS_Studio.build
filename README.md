@@ -1,0 +1,1 @@
+https://github.com/obsproject/obs-studio/wiki/Install-Instructions Build Instructions: https://github.com/obsproject/obs-studio/wiki/Install-Instructions Building OBS Studio https://github.com/obsproject/obs-studio/wiki/Building-OBS-Studio
